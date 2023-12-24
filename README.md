@@ -1,7 +1,6 @@
 
 And if you want to make it collapsible:
 
-```markdown
 <details>
   <summary>Click to reveal SQL query</summary>
   

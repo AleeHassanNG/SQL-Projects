@@ -17,5 +17,4 @@ And if you want to make it collapsible:
   GROUP BY
     t1.sub_region
   ORDER BY 
-    t1.sub_region;```
-<details>
+    t1.sub_region

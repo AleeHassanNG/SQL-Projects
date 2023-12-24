@@ -19,3 +19,4 @@ And if you want to make it collapsible:
     t1.sub_region
   ORDER BY 
     t1.sub_region;
+<details>

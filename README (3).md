@@ -28,13 +28,13 @@ Objective: Determine the total number of Olympic Games held from the dataset.
   ```Query:
 	
   ```select count(distinct(Games)) as Olympic_Games
-	from athlete_events
+	from athlete_events```
 
 </details>
 
 <details>
   <summary>Click to reveal expected results</summary>
- | Olympic_Games|
+| Olympic_Games|
 |---------------|
 |   51		|
 

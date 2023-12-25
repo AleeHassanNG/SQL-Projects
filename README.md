@@ -11,7 +11,7 @@ A brief description of what this project does and who it's for
 </details>
 
 <details>
-  <summary>Click to reveal results</summary>
+  <summary>Click to reveal expected results</summary>
   
   Your results go here.
 </details>

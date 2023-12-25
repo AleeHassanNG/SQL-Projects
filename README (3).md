@@ -35,7 +35,11 @@ FROM athlete_events;
 
 
 <details>
+
+
   <summary>Click to reveal expected results</summary>
+
+
 | Olympic_Games|
 |---------------|
 |   51		|

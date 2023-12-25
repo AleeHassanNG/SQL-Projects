@@ -31,19 +31,13 @@ When rendered, it will look like this:
 ```sql
 SELECT COUNT(DISTINCT Games) AS Olympic_Games
 FROM athlete_events;
-<details> ```
-
 
 <details>
 
 
+<details>
   <summary>Click to reveal expected results</summary>
-
-
-| Olympic_Games|
-|---------------|
-|   51		|
-
+Ladjd
 </details>
 
 2. Even or Odd Game Count

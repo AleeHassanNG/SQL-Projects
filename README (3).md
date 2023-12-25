@@ -23,12 +23,11 @@ SQL Server was used to write all queries in this project but any SQL database ma
 #### 1. Count of Olympic Games
 Objective: Determine the total number of Olympic Games held from the dataset.
 
-2. Even or Odd Game Count
+#### 2. Even or Odd Game Count
 Objective: Classify each Olympic Game as Even or Odd based on the count.
 
-3. City where Sport and Event Counts
+#### 3. City where Sport and Event Counts
 Objective: Identufy the cities where the Olympics Game took place and also count number sports and events.
-
 
 4. Top Country Each Year
 Objective: Identify the top country each year with the most/highest participants.

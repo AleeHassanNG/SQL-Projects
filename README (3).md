@@ -26,15 +26,17 @@ Objective: Determine the total number of Olympic Games held from the dataset.
 <details>
   <summary>Click to reveal query</summary>
   Query:
-  ````select count(distinct(Games)) as Olympic_Games
+  ```select count(distinct(Games)) as Olympic_Games
 	from athlete_events```
 
 </details>
 
 <details>
   <summary>Click to reveal expected results</summary>
-  |Olympic_Games|
-  |  51         |
+ | Olympic_Games|
+|---------------|
+|   51		|
+
 </details>
 
 2. Even or Odd Game Count

@@ -30,13 +30,15 @@ SELECT COUNT(DISTINCT Games) AS Olympic_Games
 FROM athlete_events;
 ```
 
+
 <details>
   <summary>Click to reveal expected results</summary>
 
   |Olympic_Games|
   |-------------|
   |51           |
-<details>
+
+
   
 #### 2. Even or Odd Game Count
 Objective: Classify each Olympic Game as Even or Odd based on the count.

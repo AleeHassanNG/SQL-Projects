@@ -28,7 +28,7 @@ Objective: Determine the total number of Olympic Games held from the dataset.
 ```sql
 SELECT COUNT(DISTINCT Games) AS Olympic_Games
 FROM athlete_events;
-----
+```
 #### 2. Even or Odd Game Count
 Objective: Classify each Olympic Game as Even or Odd based on the count.
 

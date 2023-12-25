@@ -36,6 +36,8 @@ FROM athlete_events;
   |Olympic_Games|
   |-------------|
   |51           |
+
+  
 #### 2. Even or Odd Game Count
 Objective: Classify each Olympic Game as Even or Odd based on the count.
 

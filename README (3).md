@@ -37,7 +37,7 @@ FROM athlete_events;
   |Olympic_Games|
   |-------------|
   |51           |
-
+</details>
 
   
 #### 2. Even or Odd Game Count

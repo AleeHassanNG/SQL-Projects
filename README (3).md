@@ -23,23 +23,6 @@ SQL Server was used to write all queries in this project but any SQL database ma
 #### 1. Count of Olympic Games
 Objective: Determine the total number of Olympic Games held from the dataset.
 
-<details>
-  <summary>Click to reveal query</summary>
-	
-When rendered, it will look like this:
-
-```sql
-SELECT COUNT(DISTINCT Games) AS Olympic_Games
-FROM athlete_events;
-
-<details>
-
-
-<details>
-  <summary>Click to reveal expected results</summary>
-Ladjd
-</details>
-
 2. Even or Odd Game Count
 Objective: Classify each Olympic Game as Even or Odd based on the count.
 

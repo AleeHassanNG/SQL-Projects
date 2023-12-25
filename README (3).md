@@ -29,7 +29,7 @@ Objective: Determine the total number of Olympic Games held from the dataset.
 SELECT COUNT(DISTINCT Games) AS Olympic_Games
 FROM athlete_events;
 ```
-
+<details>
 
 <details>
   <summary>Click to reveal expected results</summary>

@@ -26,7 +26,7 @@ Objective: Determine the total number of Olympic Games held from the dataset.
   <summary>Click to reveal query</summary>
 
 ```sql
-SELECT COUNT(DISTINCT Games) AS Olympic_Games
+SELECT COUNT(distinct Games) AS Olympic_Games
 FROM athlete_events;
 ```
 </details>

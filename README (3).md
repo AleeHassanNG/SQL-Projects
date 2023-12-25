@@ -25,10 +25,12 @@ Objective: Determine the total number of Olympic Games held from the dataset.
 
 <details>
   <summary>Click to reveal query</summary>
-  ```Query:
 	
-  ```select count(distinct(Games)) as Olympic_Games
-	from athlete_events```
+When rendered, it will look like this:
+
+```sql
+SELECT COUNT(DISTINCT Games) AS Olympic_Games
+FROM athlete_events;
 
 </details>
 

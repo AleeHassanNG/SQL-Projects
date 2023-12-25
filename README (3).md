@@ -25,7 +25,7 @@ Objective: Determine the total number of Olympic Games held from the dataset.
 
 <details>
   <summary>Click to reveal query</summary>
-  Query:
+  ```Query:
   ```select count(distinct(Games)) as Olympic_Games
 	from athlete_events
 

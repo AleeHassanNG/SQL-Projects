@@ -9,7 +9,7 @@ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aliyu-alhassan-13048225
 
 
 
-#### Introduction
+### Introduction
 
 The "Olympic Games Analysis" aims to explore and derive insights from a dataset containing information about various Olympic Games, including details about athletes, countries, sports, and medals. This dataset serves as the foundation for a comprehensive analysis of historical Olympic events.
 

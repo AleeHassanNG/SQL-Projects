@@ -1050,7 +1050,6 @@ select top 10 *
 
   |Sport	| Highest_Medal|
   |-------------|-|
-  |
 Football	|50
 Athletics	|41
 Boxing	|6
@@ -1085,10 +1084,9 @@ order by
 
   |Country	|games|	sport|	Medals|
   |-------------|-|-|-|
-  |
-Nigeria|	2016 Summer	|Football	|18
-Nigeria	|1996 Summer	|Football	|16
-Nigeria	|2008 Summer	|Football	|16
+  |Nigeria|	2016 Summer	|Football	|18
+|Nigeria	|1996 Summer	|Football	|16
+|Nigeria	|2008 Summer	|Football	|16
 </details>
 
 

@@ -871,7 +871,6 @@ select distinct(Game),
 
   |Game	|Max_Bronze	|Max_Gold	|Max_Silver	|Max_Medals|
   |-------------|-|-|-|-|
-  |
 1896 Summer	|Greece - 20|	Germany - 25|	Greece - 18	|Greece - 48
 1900 Summer	|France - 82	|UK - 59	|France - 101	|France - 235
 1904 Summer	|USA - 125	|USA - 128|	USA - 141	|USA - 394
@@ -952,7 +951,6 @@ select C1.*
 
   |Country|	Bronze|	Gold	|Silver|
   |-------------|-|-|-|
-  |
 Albania	|0	|0	|0
 American Samoa	|0|	0|	0
 Andorra	|0	|0	|0
